@@ -1,0 +1,36 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "title",
+      "images": [
+        {
+          "url": "https://images.wbstatic.net/big/new/15610000/15615724-1.jpg"
+        },
+        {
+          "url": "https://cs2.livemaster.ru/storage/2c/e7/3d8af314c42a9fe106fbac52d4ux--odezhda-dizajnerskij-kardigan-ruchnoj-raboty.jpg"
+        },
+        {
+          "url": "https://images.wbstatic.net/big/new/11530000/11534524-2.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/ad/75/7c/ad757c2c2ee9542e0994c9c14b2d4efd.jpg"
+        }
+      ],
+      "discount": "15",
+      "brand": "brand name",
+      "price": "9999",
+      "sizes": [
+        {
+          "size": "S"
+        },
+        {
+          "size": "XS"
+        },
+        {
+          "size": "X"
+        }
+      ]
+    }
+  ]
+}
